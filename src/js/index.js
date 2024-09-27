@@ -2,6 +2,8 @@
  * he esarrollado este proyecto siguiendo las instrucciones proporcionadas, apoyandome en el tutorial/video facilitado por la academia
  * ademas he adaptado y actualizado algunas partes del codigo para utilizar librerias mas recientes y optimizadas, 
  * en lugar de las versiones mostradas en el material original, asi aseguraba la compatibilidad y el buen funcionamiento del contador que estaba creando.
+ * Anyadir que he indagado y buscado todo lo posible para poder importar la libreria FontAwesome de la mejor manera y sin tener que ejecutar nada en la 
+ * terminal y no de errores y porblemas en la ejecucion. El unico erro observado en la consola es que el codigo y la informacion no se guarda en la api
  */
 import React from 'react';
 import ReactDOM from 'react-dom';
